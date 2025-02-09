@@ -1,0 +1,4 @@
+[console_scripts]
+gesture_pub = gesture_pkg.gesture_publisher:main
+gesture_sub = gesture_pkg.gesture_subscriber:main
+
